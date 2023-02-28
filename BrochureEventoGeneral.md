@@ -1,6 +1,8 @@
 # KCDMaterials
 # Brochure Evento Español
-[KCD Colombia ESP..pdf](https://github.com/fhcn-io/KCDMaterials/files/10804630/KCD.Colombia.ESP.pdf)
+[Brochure ESP_.pdf](https://github.com/fhcn-io/KCDMaterials/files/10854777/Brochure.ESP_.pdf)
+
 
 # Brochure English
-[KCD Colombia EN..pdf](https://github.com/fhcn-io/KCDMaterials/files/10804643/KCD.Colombia.EN.pdf)
+
+[Brochure EN_.pdf](https://github.com/fhcn-io/KCDMaterials/files/10854778/Brochure.EN_.pdf)
