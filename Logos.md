@@ -1,6 +1,6 @@
 # KCDMaterials
 # Recursos Logos
-# Editable
+# Editable [.svg]
 ![Group 1381](https://user-images.githubusercontent.com/101415041/223210883-645f205c-ed73-48d1-b540-3cd74ac8c1b0.svg)
 
 ## Logos colores
