@@ -1,8 +1,7 @@
 # KCDMaterials
 # Recursos Logos
-## Logos blanco y negro
-![Group 3](https://user-images.githubusercontent.com/101415041/223210660-5bd4bc1a-319d-46c5-8657-83e72bdfaf1b.png)
-![Group 4](https://user-images.githubusercontent.com/101415041/223210666-d6e39aa6-c635-4ee1-abea-07f2874115e0.png)
+# Editable
+![Group 1381](https://user-images.githubusercontent.com/101415041/223210883-645f205c-ed73-48d1-b540-3cd74ac8c1b0.svg)
 
 ## Logos colores
 ![Logo Grupo-1](https://user-images.githubusercontent.com/101415041/223210682-b5547981-ed5e-4bd1-98c9-f55c4db716ae.png)
