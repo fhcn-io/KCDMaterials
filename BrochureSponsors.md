@@ -1,6 +1,6 @@
 # KCDMaterials
 ## Español
-[KCD Brochure ESP - Sponsors.pdf](https://github.com/fhcn-io/KCDMaterials/files/11029825/KCD.Brochure.ESP.-.Sponsors21Mar.pdf)
+[KCD Brochure ESP - Sponsors.pdf](https://github.com/fhcn-io/KCDMaterials/files/11030796/KCD.Brochure.ESP.-.Sponsors.pdf)
 
 ## English
-[KCD Brochure EN - Sponsors.pdf](https://github.com/fhcn-io/KCDMaterials/files/11029822/KCD.Brochure.EN.-.Sponsors21Mar.pdf)
+[KCD Brochure EN - Sponsors.pdf](https://github.com/fhcn-io/KCDMaterials/files/11030793/KCD.Brochure.EN.-.Sponsors.pdf)
