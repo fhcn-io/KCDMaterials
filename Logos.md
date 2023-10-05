@@ -1,4 +1,6 @@
 # KCDMaterials
+## CNCF logo
+https://github.com/cncf/artwork/blob/master/examples/other.md#kubernetes-community-days 
 # Recursos Logos
 ## Organizadores
 ### Positivo
